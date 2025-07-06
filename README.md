@@ -1,6 +1,11 @@
  <h1 align="center">SnapCast: Full Stack Screen Recording & Video Sharing Platform</h1>
 
-
+<div align="center">
+     <a href="https://snap-cast-3wyy.vercel.app/sign-in" target="_blank">
+       <img src="https://img.shields.io/badge/Live%20Demo-View%20App-blue?style=for-the-badge&logo=vercel" alt="Live Demo">
+     </a>
+   </div>
+   
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
